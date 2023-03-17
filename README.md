@@ -13,7 +13,7 @@ The contents are given in the illustration below.
 ## Basics of DML-Part 2
 In this part I deal with the operational order, the set functions and the group by & having clause. The link to my article is provided below.<br>
 <a href="https://medium.com/@basubinayak05/introduction-to-sql-set-operations-groups-and-aggregates-9393b45bd1b"><em><strong>Introduction to SQL: Set Operations, Groups and Aggregates</strong></em></a><br>
-<img src="">
+<img src="https://github.com/basu-binayak/DBMS/blob/d38183d81520da06332dc734d2e7a1595ed66db9/Introduction%20to%20SQL%20Set%20Operations,%20Groups%20and%20Aggregates.png">
 
   
 
