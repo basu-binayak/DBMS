@@ -5,5 +5,5 @@ My article, <a href = "https://medium.com/@basubinayak05/relational-database-an-
 <img src="https://github.com/basu-binayak/DBMS/blob/98f4bdee9f4e05cd9bf7eb15179f9424b2e16cb3/DBMS,RDBMS%20An%20Introduction!%20contents.png">
 ## Introduction to SQL: Domain Types
 Knowledge of the basic data types avaibale in SQL is important to work in SQL and create tables in a database. My article, <a href = "https://medium.com/@basubinayak05/introduction-to-sql-domain-types-98b0e4cec57b"><em><strong>Introduction to SQL: Domain Types</strong></em></a> gives a basic introduction to the domain types. 
-<img src ="">
+<img src ="https://github.com/basu-binayak/DBMS/blob/bc4b8a0ba4d678916c5dd1e32dedf71641d43b4b/Introduction%20to%20SQL_Doamin%20Types_content.png">
 
