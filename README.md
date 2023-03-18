@@ -19,7 +19,7 @@ My article <a href="https://medium.com/@basubinayak05/introduction-to-sql-nested
 1. Subquery in WHERE clause<br>
 2. Subquery in FROM clause<br>
 3. Subquery in SELECT clause. <br>
-
+<img src="https://github.com/basu-binayak/DBMS/blob/303c1f1b6880eca0c24bbfe4db769bbab08cc1c9/Subquery.png">
 
   
 
