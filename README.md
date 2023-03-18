@@ -15,7 +15,10 @@ In this part I deal with the operational order, the set functions and the group 
 <a href="https://medium.com/@basubinayak05/introduction-to-sql-set-operations-groups-and-aggregates-9393b45bd1b"><em><strong>Introduction to SQL: Set Operations, Groups and Aggregates</strong></em></a><br>
 <img src="https://github.com/basu-binayak/DBMS/blob/d38183d81520da06332dc734d2e7a1595ed66db9/Introduction%20to%20SQL%20Set%20Operations,%20Groups%20and%20Aggregates.png">
 ## Basics of DML-Nested Subquery(Part 3)
-My article <a href="https://medium.com/@basubinayak05/introduction-to-sql-nested-subqueries-37381a12939"><em><strong>Introduction to SQL: Nested Subqueries</strong></em> deals with mainly three forms of subquery: 1. Subquery in WHERE clause, 2. Subquery in FROM clause and 3. Subquery in SELECT clause. <br>
+My article <a href="https://medium.com/@basubinayak05/introduction-to-sql-nested-subqueries-37381a12939"><em><strong>Introduction to SQL: Nested Subqueries</strong></em></a>deals with mainly three forms of subquery:<br>
+1. Subquery in WHERE clause<br>
+2. Subquery in FROM clause<br>
+3. Subquery in SELECT clause. <br>
 
 
   
